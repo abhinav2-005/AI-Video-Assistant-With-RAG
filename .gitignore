@@ -1,1 +1,4 @@
 .env
+.venv
+downloades
+vector_db
